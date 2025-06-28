@@ -1,5 +1,16 @@
 # Arithmetic Mean (AM) for Grouped Data
+```python
 
+print("hello world")
+for i in range(100):
+   print(i)
+
+
+```
+
+- hello
+- hi
+- 
 This document explains how to calculate the **Arithmetic Mean (AM)** for grouped frequency data.
 
 ---
